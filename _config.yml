@@ -1,6 +1,6 @@
-domain: example.com
-url: https://example.com
-baseurl: "/wind"
+domain: staticfilesimporter.github.io
+url: https://staticfilesimporter.github.io
+baseurl: "/test"
 
 title: Wind
 email: wind@example.com
